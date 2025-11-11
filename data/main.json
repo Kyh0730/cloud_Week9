@@ -1,0 +1,11 @@
+{
+  "title": "KDUKIT.",
+  "description": "편리한 경동대 생활을 위한 도우미 앱",
+  "links": [
+    { "name": "작품 주제", "url": "/subject" },
+    { "name": "실용적 근거", "url": "/rationale" },
+    { "name": "핵심 기능", "url": "/features" },
+    { "name": "구현 환경", "url": "/environment" },
+    { "name": "팀 구성", "url": "/team" }
+  ]
+}

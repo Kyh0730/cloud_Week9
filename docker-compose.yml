@@ -1,0 +1,10 @@
+version: "3"
+services:
+  web:
+    build: .
+    container_name: capstone_web
+    ports:
+      - "80:5000"
+    volumes:
+      - .:/app
+    restart: always

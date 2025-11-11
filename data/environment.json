@@ -1,0 +1,6 @@
+{
+  "title": "구현 환경",
+  "Front-End": ["typescript", "JavaScript"],
+  "Back-End": ["React(Expo)", "Firebase"],
+  "tools": ["GitHub", "VS Code"]
+}
