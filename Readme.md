@@ -31,4 +31,4 @@
 
  ## 6. 실행 방법
 docker compose up --bulid -d
-여기다가 배포된 ip 넣기
+http://16.184.46.226
